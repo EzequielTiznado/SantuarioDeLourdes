@@ -1,0 +1,45 @@
+.nav-link{
+    color: white;
+}
+body{
+    background-image: url("./images/background.jpg");
+    /* background-repeat: repeat; */
+}
+
+.h1{
+     text-align: center;
+    padding-top: 20px;
+    border-style:double;
+    background-color: #e9ecef;
+} 
+.h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.container{
+  
+    padding-bottom: 40px;
+}
+.p1{
+    padding-top: 10px;
+    
+}
+.h3{
+    background-color: rgb(141, 155, 150);
+    text-align: center;
+    
+}
+.h3b{
+    background-color: rgb(141, 155, 150);
+    text-align: center;    
+}
+#img1{
+    margin-right: 20px; 
+}
+.subtitle{
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#vialucis{
+    text-align: center;
+}
